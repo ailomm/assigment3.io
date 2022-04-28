@@ -1,0 +1,37 @@
+body{
+background-color:#d9e7ff;}
+#header-nav{
+	border-radius:0;
+border:0;
+background-color:#a5d4cd;}
+#logo{
+	margin: 10px 0px 10px 0;
+   font-size:3vw;}
+#nav-list li{
+text-align:center;
+font-size:2vw;
+}
+#nav-list{
+margin-top:10px;}
+#nav-list li:hover{
+ background-color:#E7E7E7;}
+
+ p{
+ font-size:16px;}
+#mydiv  {
+background-color:pink;
+margin-bottom:20px;
+border:2px solid black;
+padding:20px;}
+h1,p{
+
+font-family:Comfortaa,sans-serif;}
+#center{
+	font-size:23px;
+font-weight:bold;}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: 10px;
+   border: 1px solid #61122f;
+}
